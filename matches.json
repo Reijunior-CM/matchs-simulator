@@ -1,20 +1,19 @@
 [
- {
-  "descricao":"Eliminatorias copa 2022"
-  "local":{
-   "nome": "Maracana"
+    {
+        "descricao": "Eliminatorias copa 2022",
+  "local": {
+   "nome": "Maracana",
    "imagem": "TODO"
-   },
-   "mandante":{
-    "nome": "brasil",
-    "força": 5,
-    "imagem": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg"
-    },
-   "visitante":{
-    "nome": "Argentina",
-    "força": 4,
-    "imagem": "https://static.significados.com.br/foto/argentina.jpg"
-   
-   }
- }
+        },
+        "mandante": {
+            "nome": "brasil",
+            "força": 5,
+            "imagem": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg"
+        },
+        "visitante": {
+            "nome": "Argentina",
+            "força": 4,
+            "imagem": "https://static.significados.com.br/foto/argentina.jpg"
+        }
+    }
 ]
